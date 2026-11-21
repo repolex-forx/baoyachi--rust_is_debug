@@ -1,0 +1,11 @@
+{
+  "org": "baoyachi",
+  "repo": "rust_is_debug",
+  "versions": [
+    {
+      "commit": "6f64716442030267ff23ae446b1dd791880c8fec",
+      "tag": "v1.1.0",
+      "parsed_at": "2026-11-21T22:51:30.616982+00:00"
+    }
+  ]
+}
