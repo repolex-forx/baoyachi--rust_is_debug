@@ -23,6 +23,20 @@
       ],
       "ast": [
         "aggregate/ast/6f64716442030267ff23ae446b1dd791880c8fec/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6f64716442030267ff23ae446b1dd791880c8fec.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "xshell",
+          "ecosystem": "CARGO",
+          "version": "0.2.7",
+          "githubOrg": "matklad",
+          "githubRepo": "xshell",
+          "githubCommit": "9a405946ecbbfe50fe4a7229bd764194154e4ce6",
+          "githubTag": "v0.2.7",
+          "githubUrl": "https://github.com/matklad/xshell",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
