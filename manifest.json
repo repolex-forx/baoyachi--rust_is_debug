@@ -37,7 +37,9 @@
           "githubUrl": "https://github.com/matklad/xshell",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/6f64716442030267ff23ae446b1dd791880c8fec/chunk-001.nq.gz",
+      "dep": "dep/6f64716442030267ff23ae446b1dd791880c8fec.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
